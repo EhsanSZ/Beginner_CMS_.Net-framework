@@ -1,0 +1,73 @@
+﻿@model IEnumerable<DataLayer.Page>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<br />
+<br />
+
+
+<p>
+    <a href="/Admin/Pages/Create" class="btn btn-success" >افزودن صفحه</a>
+</p>
+
+<table class="table">
+    <tr>
+
+        @*<th>
+            @Html.DisplayNameFor(model => model.ImageName)
+        </th>*@
+
+        <th>
+            @Html.DisplayNameFor(model => model.PageGroup.GroupTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Visit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ShowInSlider)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreateDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+
+    @*<td>
+        <img src="~/PageImages/@item.ImageName" class="thumbnail" style="height :80px ;width:110px  " />
+    </td>*@
+
+    <td>
+        @Html.DisplayFor(modelItem => item.PageGroup.GroupTitle)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Title)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Visit)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ShowInSlider)
+    </td>
+    <td>
+        @item.CreateDate.ToShamsi()
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.PageID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.PageID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.PageID })
+    </td>
+</tr>
+}
+
+</table>

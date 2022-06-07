@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38470803-40d7-42af-ba5e-34226d5d6e49": {
+      "ProjectGuid": "38470803-40d7-42af-ba5e-34226d5d6e49",
+      "DisplayName": "MyCMS",
+      "ColorIndex": 0
+    },
+    "ff34e03d-cec3-4be1-a258-28910d21f77f": {
+      "ProjectGuid": "ff34e03d-cec3-4be1-a258-28910d21f77f",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

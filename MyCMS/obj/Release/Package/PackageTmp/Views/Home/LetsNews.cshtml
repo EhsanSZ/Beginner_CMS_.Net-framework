@@ -1,0 +1,28 @@
+﻿@model IEnumerable<DataLayer.Page>
+
+
+<section class="last-news-section border-radius margin-top-60">
+    <header><i class="icons icon-doc-2"></i>  <h3>آخرین مطالب ارسالی</h3> </header>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>
+                <a href="@Url.Action("ShowNews/"+item.PageID,"Home")" style="display:inline">
+                    <img class="border-radius" src="~/PageImages/@item.ImageName" style="width:170px;height:120px">
+                </a>
+                <h2> 
+                <a href="@Url.Action("ShowNews/"+item.PageID,"Home")">@item.Title</a>
+                </h2>
+                <p>
+                    @item.ShortDescription
+                </p>
+                <span class="date-publish"><i class="fa fa-calendar"></i> انتشار :@item.CreateDate.ToShamsi() </span>
+                <a href="@Url.Action("ShowNews/"+item.PageID,"Home")" class="more-link"><i class="icons icon-more"></i></a>
+            </li>
+        }
+
+    </ul>
+</section>
+
+
+

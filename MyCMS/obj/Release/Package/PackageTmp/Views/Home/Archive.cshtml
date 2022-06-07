@@ -1,0 +1,27 @@
+﻿@model IEnumerable<DataLayer.Page>
+
+@{
+    ViewBag.Title = "Archive";
+}
+
+
+<section class="last-news-section border-radius margin-top-60">
+    <header><i class="icons icon-doc-2"></i>  <h3>آرشیو</h3> </header>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>
+                <a href="Home/ShowNews/@item.PageID" style="display:inline">
+                <img class="border-radius" src="~/PageImages/@item.ImageName" style="width:100px;height:80px">
+                </a>
+                    <h2>@Html.RouteLink(item.Title, new { controller = "Home", action = "ShowNews", id = item.PageID })</h2>
+                <p>
+                    @item.ShortDescription
+                </p>
+                <span class="date-publish"><i class="fa fa-calendar"></i> انتشار :@item.CreateDate.ToShamsi() </span>
+                <a href="Home/ShowNews/@item.PageID" class="more-link"><i class="icons icon-more"></i></a>
+            </li>
+        }
+
+    </ul>
+</section>

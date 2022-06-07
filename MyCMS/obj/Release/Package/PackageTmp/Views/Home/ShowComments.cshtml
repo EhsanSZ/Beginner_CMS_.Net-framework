@@ -1,0 +1,15 @@
+﻿@model IEnumerable<DataLayer.PageComment>
+
+@foreach (var item in Model)
+{
+    <li>
+        <img src="/Content/img/thumb.png">
+        <div>
+            <span>@item.Name</span>
+            <span>@item.CreateDate.ToShamsi()</span>
+        </div>
+        <p>@item.Comment</p>
+    </li>
+}
+
+

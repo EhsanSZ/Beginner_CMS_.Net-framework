@@ -1,0 +1,222 @@
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\MyCMS.dll.config
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\MyCMS.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\MyCMS.pdb
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\csc.exe
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\csc.exe.config
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\csc.rsp
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\csi.exe
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\csi.exe.config
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\csi.rsp
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.AppContext.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Collections.Immutable.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Console.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.IO.Compression.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.IO.FileSystem.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Net.Http.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Net.Sockets.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.ValueTuple.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Xml.XPath.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\vbc.exe
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\vbc.exe.config
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\vbc.rsp
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\VBCSCompiler.exe
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\roslyn\VBCSCompiler.exe.config
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Antlr3.Runtime.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\DataLayer.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\EntityFramework.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\EntityFramework.SqlServer.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Google.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Web.Infrastructure.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Newtonsoft.Json.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Owin.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Helpers.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Mvc.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Optimization.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Razor.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.WebPages.Deployment.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.WebPages.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.WebPages.Razor.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\WebGrease.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\DataLayer.pdb
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\DataLayer.dll.config
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Helpers.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Mvc.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Optimization.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.Razor.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.WebPages.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.WebPages.Deployment.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\System.Web.WebPages.Razor.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Newtonsoft.Json.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Antlr3.Runtime.pdb
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\EntityFramework.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\EntityFramework.SqlServer.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Google.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\obj\Release\MyCMS.csproj.AssemblyReference.cache
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\obj\Release\MyCMS.csproj.CoreCompileInputs.cache
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\obj\Release\MyCMS.csproj.CopyComplete
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\obj\Release\MyCMS.dll
+D:\My Proje\ASP.Net\toplearn Basic\MyCMS\MyCMS\obj\Release\MyCMS.pdb
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\MyCMS.dll.config
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\MyCMS.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\MyCMS.pdb
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\csc.exe
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\csc.exe.config
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\csc.rsp
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\csi.exe
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\csi.exe.config
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\csi.rsp
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.AppContext.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Console.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.IO.Compression.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.IO.FileSystem.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Net.Http.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Net.Sockets.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.ValueTuple.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Xml.XPath.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\vbc.exe
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\vbc.exe.config
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\vbc.rsp
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\VBCSCompiler.exe
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Antlr3.Runtime.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\DataLayer.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\EntityFramework.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\EntityFramework.SqlServer.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Google.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Web.Infrastructure.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Newtonsoft.Json.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Owin.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Helpers.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Mvc.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Optimization.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Razor.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.WebPages.Deployment.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.WebPages.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.WebPages.Razor.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\WebGrease.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\DataLayer.pdb
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\DataLayer.dll.config
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Helpers.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Mvc.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Optimization.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.Razor.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.WebPages.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.WebPages.Deployment.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\System.Web.WebPages.Razor.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Newtonsoft.Json.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Antlr3.Runtime.pdb
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\EntityFramework.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\EntityFramework.SqlServer.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Google.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\obj\Release\MyCMS.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\obj\Release\MyCMS.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\obj\Release\MyCMS.csproj.CopyComplete
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\obj\Release\MyCMS.dll
+D:\MyProje\ASP.Net\toplearnBasic\MyCMS\MyCMS\obj\Release\MyCMS.pdb

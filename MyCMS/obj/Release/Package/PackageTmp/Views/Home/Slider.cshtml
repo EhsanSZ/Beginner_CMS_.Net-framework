@@ -1,0 +1,26 @@
+﻿@model IEnumerable<DataLayer.Page>
+
+<div class="news-slider border-radius">
+    <div id="slider-one" class="owl-carousel">
+
+        @foreach (var item in Model)
+        {
+            <div class="item">
+                <a href="@Url.Action("ShowNews/"+item.PageID,"Home")" style="display:inline">
+                    <img src="~/PageImages/@item.ImageName" style="height:190px; width:250px">
+                </a>
+                
+                <div class="left-side">
+                    <h2> <a href="@Url.Action("ShowNews/"+item.PageID,"Home")">@item.Title</a> </h2>
+                    <p>
+                    @item.ShortDescription
+                    </p>
+                    <span> <i class="fa fa-calendar"></i> انتشار : @item.CreateDate.ToShamsi()</span>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        }
+    </div>
+    <a href="/Archive" class="news-archive"> <i class="icons icon-doc-1"></i>آرشیو کامل مطالب</a>
+</div>
+

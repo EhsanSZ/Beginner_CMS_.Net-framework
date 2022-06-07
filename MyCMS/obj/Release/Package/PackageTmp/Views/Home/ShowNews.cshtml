@@ -1,0 +1,80 @@
+﻿@model DataLayer.Page
+
+@{
+    ViewBag.Title = "ShowNews";
+}
+
+<style>
+    .single-news img {
+        max-width: 100%;
+    }
+</style>
+
+<ul class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">خانه </a></li>
+    <li class="breadcrumb-item"><a href="/Archive">مطالب </a></li>
+    <li class="breadcrumb-item"><a href="#">@Model.PageGroup.GroupTitle</a></li>
+    <li class="breadcrumb-item active">@Model.Title</li>
+</ul>
+
+
+<section class="single-news border-radius">
+    <header><h2>@Model.Title</h2> <span> <i class="fa fa-calendar"></i>  انتشار : @Model.CreateDate.ToShamsi()</span></header>
+    <article>
+        <p>
+            @Model.ShortDescription
+        </p>
+        <div>
+            <img src="~/PageImages/@Model.ImageName" class="thumbnail" style="max-width:90% ; margin:10px auto" />
+        </div>
+        <p>
+            @Html.Raw(Model.Text);
+        </p>
+    </article>
+</section>
+
+<div class="keywords border-radius">
+    @if (Model.Tags != null)
+    {
+        foreach (var item in Model.Tags.Split(','))
+        {
+            <a href="/Search/Index/?q=@item">@item</a>
+        }
+    }
+
+</div>
+
+<section class="comment-layer">
+    <header> <i class="fa fa-comments"></i><h5> دیدگاه کاربران </h5><span> @Model.PageComment.Count دیدگاه </span> </header>
+    <ul id="commentList">
+        @Html.Action("ShowComments")
+    </ul>
+
+
+    <h6> شما هم دیدگاه خود را ارسال کنید </h6>
+    <form class="comment-form" action="" method="post">
+        <div>
+            <input placeholder=" نام و نام خانوادگی" type="text" id="txtName">
+            <input placeholder=" ایمیل خود را وارد نمایید " type="email" id="txtEmail">
+        </div>
+        <textarea id="txtComment" placeholder=" متن دیدگاه" type="text"> </textarea>
+        <input value="ثبت دیدگاه ارزشمند شما " type="button" onclick="addComment()" style="width: 100%; border:0; padding: 5px; color: #fff; background-color: #0EB501; line-height: 30px;">
+    </form>
+</section>
+
+<script>
+    function addComment() {
+        $.ajax({
+            url: "/Home/AddComment/" + @Model.PageID ,
+            type: "Post",
+            data: { name: $("#txtName").val(), email: $("#txtEmail").val(), comment: $("#txtComment").val() }
+        }).done(function (result) {
+            $("#commentList").html(result);
+            $("#txtName").val("");
+            $("#txtEmail").val("");
+            $("#txtComment").val("");
+        });
+
+    }
+
+</script>

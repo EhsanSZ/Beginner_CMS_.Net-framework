@@ -1,0 +1,14 @@
+﻿@model IEnumerable<DataLayer.PageGroup>
+
+
+
+<span>گروه ها </span>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            @Html.RouteLink(item.GroupTitle,new 
+         {controller="Home",action= "ShowNewsByGroupId", id = @item.GroupID , name= @item.GroupTitle },null)
+        </li>
+    }
+</ul>

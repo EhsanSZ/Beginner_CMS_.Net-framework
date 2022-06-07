@@ -1,0 +1,39 @@
+﻿@model IEnumerable<DataLayer.Page>
+
+@{
+    ViewBag.Title = "ShowNewsByGroupId";
+}
+
+
+
+<ul class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">خانه </a></li>
+    <li class="breadcrumb-item"><a href="#">مطالب </a></li>
+    <li class="breadcrumb-item active">@ViewBag.name</li>
+</ul>
+
+
+<section class="last-news-section border-radius">
+    <header><i class="icons icon-doc-2"></i>  <h3> آرشیو  @ViewBag.name</h3> </header>
+    <ul>
+        @foreach (var item in Model)
+        {
+        <li>
+            <a href="@Url.Action("ShowNews/"+item.PageID,"Home")" style="display:inline">
+            <img class="border-radius" src="~/PageImages/@item.ImageName" style="width:90px ; height:70px">  
+            </a>
+            <h2>@Html.RouteLink(item.Title, new { controller = "Home", action = "ShowNews", id = item.PageID })</h2>
+            <p>
+                @item.ShortDescription
+            </p>
+            <span class="date-publish"><i class="fa fa-calendar"></i> انتشار : @item.CreateDate.ToShamsi() </span>
+            <a href="@Url.Action("ShowNews/"+item.PageID,"Home")" class="more-link"><i class="icons icon-more"></i></a>
+        </li>
+        }
+    </ul>
+</section>
+
+
+
+
+
